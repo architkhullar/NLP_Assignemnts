@@ -1,0 +1,5 @@
+Active o desactive Bluetooth.
+Haga clic en el icono de Bluetooth  en la barra de menús y seleccione Activar Bluetooth o Desactivar Bluetooth.
+Consejo: Si no ve el icono de estado de conexión a la red WiFi  o el icono de Bluetooth  en la barra de menús, puede añadirlos.
+Para wifi, seleccione el menú Apple Preferencias del Sistema y, a continuación, haga clic en Red.
+Haga clic en wifi en la lista de la izquierda y después seleccione Mostrar estado de wifi en barra de menús.

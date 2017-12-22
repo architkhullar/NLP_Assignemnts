@@ -1,0 +1,735 @@
+Normal Translation
+Original
+la primera vez que encienda el macbook pro, el asistente de configuración le guiará a través de unos sencillos pasos necesarios para empezar a utilizar su nuevo mac.
+Translated
+the first time what turn on he macbook pro, he assistant from configuration you guide to to through from some singles Steps required for start to use his new mac.
+
+
+Swap the nearest verb with the word after noun
+Original
+la primera vez que encienda el macbook pro, el asistente de configuración le guiará a través de unos sencillos pasos necesarios para empezar a utilizar su nuevo mac.
+Translated
+the first time what turn on he macbook pro, he assistant from configuration you guide to to through from some singles required Steps for start to use his new mac.
+
+
+Swap the nearest adjective with the word after noun
+Original
+la primera vez que encienda el macbook pro, el asistente de configuración le guiará a través de unos sencillos pasos necesarios para empezar a utilizar su nuevo mac.
+Translated
+the first time what turn on he macbook pro, he assistant from configuration you guide to to through from some singles required Steps for start to use his new mac.
+
+
+Translation with Bigram
+Original
+la primera vez que encienda el macbook pro, el asistente de configuración le guiará a través de unos sencillos pasos necesarios para empezar a utilizar su nuevo mac.
+Translated
+new required guide to what use for first Steps macbook singles he, you from turn on some time start to configuration pro from assistant his he mac to through the.
+
+
+Translation with Trigram
+Original
+la primera vez que encienda el macbook pro, el asistente de configuración le guiará a través de unos sencillos pasos necesarios para empezar a utilizar su nuevo mac.
+Translated
+. he time, use what some turn on start Steps new you pro his he first mac configuration singles through assistant to guide to the to from macbook for required from
+
+
+Translation with Bigram and POS Tagging
+Original
+la primera vez que encienda el macbook pro, el asistente de configuración le guiará a través de unos sencillos pasos necesarios para empezar a utilizar su nuevo mac.
+Translated
+singles some to through start new assistant required turn on first the he to Steps use pro mac from what his, you time guide to configuration for macbook he from.
+
+
+Translation with POS arrangment
+Original
+la primera vez que encienda el macbook pro, el asistente de configuración le guiará a través de unos sencillos pasos necesarios para empezar a utilizar su nuevo mac.
+Translated
+time the first macbook he, pro he from configuration you guide to what through from some singles turn on Steps for start assistant use to new mac. required to his
+
+
+Normal Translation
+Original
+si desea transferir los datos que tiene en otro ordenador, consulte migrar datos para obtener información detallada.
+Translated
+yes want to transfer the data what has in other computer, see migrate data for get information detailed.
+
+
+Swap the nearest verb with the word after noun
+Original
+si desea transferir los datos que tiene en otro ordenador, consulte migrar datos para obtener información detallada.
+Translated
+want to transfer yes the data what has in other computer, see migrate data for get detailed information.
+
+
+Swap the nearest adjective with the word after noun
+Original
+si desea transferir los datos que tiene en otro ordenador, consulte migrar datos para obtener información detallada.
+Translated
+want to transfer yes the data what has in other computer, see migrate data for get detailed information.
+
+
+Translation with Bigram
+Original
+si desea transferir los datos que tiene en otro ordenador, consulte migrar datos para obtener información detallada.
+Translated
+has in computer see information want detailed data to transfer what migrate yes for, other the get data.
+
+
+Translation with Trigram
+Original
+si desea transferir los datos que tiene en otro ordenador, consulte migrar datos para obtener información detallada.
+Translated
+other in want see computer migrate detailed get yes information, for. to transfer has the data data what
+
+
+Translation with Bigram and POS Tagging
+Original
+si desea transferir los datos que tiene en otro ordenador, consulte migrar datos para obtener información detallada.
+Translated
+what the yes, for see has to transfer data want information migrate detailed data get in computer other.
+
+
+Translation with POS arrangment
+Original
+si desea transferir los datos que tiene en otro ordenador, consulte migrar datos para obtener información detallada.
+Translated
+to transfer the data want in other computer, see migrate data for get yes information. what has detailed
+
+
+Normal Translation
+Original
+asegúrese de conectarse a una red wifi, activar la tecnología inalámbrica bluetooth, hacerse con un id de apple e iniciar sesión en icloud.
+Translated
+make sure from connect to a net Wifi, Activate the technology wireless bluetooth, to be made with a id from Manzana and Start session in icloud.
+
+
+Swap the nearest verb with the word after noun
+Original
+asegúrese de conectarse a una red wifi, activar la tecnología inalámbrica bluetooth, hacerse con un id de apple e iniciar sesión en icloud.
+Translated
+make sure from connect to a net Wifi, Activate the technology wireless bluetooth, to be made with a id from Manzana and Start session in icloud.
+
+
+Swap the nearest adjective with the word after noun
+Original
+asegúrese de conectarse a una red wifi, activar la tecnología inalámbrica bluetooth, hacerse con un id de apple e iniciar sesión en icloud.
+Translated
+make sure from connect to a net Wifi, Activate the technology wireless bluetooth, to be made with a id from Manzana and Start session in icloud.
+
+
+Translation with Bigram
+Original
+asegúrese de conectarse a una red wifi, activar la tecnología inalámbrica bluetooth, hacerse con un id de apple e iniciar sesión en icloud.
+Translated
+icloud, and, from from bluetooth to be made wireless a Start net with technology Wifi connect Manzana id the in Activate a make sure to session.
+
+
+Translation with Trigram
+Original
+asegúrese de conectarse a una red wifi, activar la tecnología inalámbrica bluetooth, hacerse con un id de apple e iniciar sesión en icloud.
+Translated
+from session Start to technology with bluetooth make sure wireless a and id net icloud Wifi,. in Activate from a, to be made the Manzana connect
+
+
+Translation with Bigram and POS Tagging
+Original
+asegúrese de conectarse a una red wifi, activar la tecnología inalámbrica bluetooth, hacerse con un id de apple e iniciar sesión en icloud.
+Translated
+Wifi wireless, id, to in Activate and a from Start icloud make sure to be made a Manzana technology the session from with net connect bluetooth.
+
+
+Translation with POS arrangment
+Original
+asegúrese de conectarse a una red wifi, activar la tecnología inalámbrica bluetooth, hacerse con un id de apple e iniciar sesión en icloud.
+Translated
+make sure connect from a, net the technology wireless bluetooth, to be made with a id from to and Wifi session in icloud. Activate Manzana Start
+
+
+Normal Translation
+Original
+active siri durante el proceso de configuración, si lo desea.
+Translated
+activate siri during he process from configuration, yes the want.
+
+
+Swap the nearest verb with the word after noun
+Original
+active siri durante el proceso de configuración, si lo desea.
+Translated
+activate siri during he process from configuration, yes the want.
+
+
+Swap the nearest adjective with the word after noun
+Original
+active siri durante el proceso de configuración, si lo desea.
+Translated
+activate siri during he process from configuration, yes the want.
+
+
+Translation with Bigram
+Original
+active siri durante el proceso de configuración, si lo desea.
+Translated
+want yes he configuration during activate, siri the from process.
+
+
+Translation with Trigram
+Original
+active siri durante el proceso de configuración, si lo desea.
+Translated
+process want. he the siri activate, yes during from configuration
+
+
+Translation with Bigram and POS Tagging
+Original
+active siri durante el proceso de configuración, si lo desea.
+Translated
+during configuration he process yes, the siri activate from want.
+
+
+Translation with POS arrangment
+Original
+active siri durante el proceso de configuración, si lo desea.
+Translated
+siri during process from configuration, the want. activate he yes
+
+
+Normal Translation
+Original
+si su macbook pro dispone de touch bar, también puede configurar touch id y apple pay.
+Translated
+yes his macbook pro has from touch Pub, as well can set up touch id Y Manzana pay.
+
+
+Swap the nearest verb with the word after noun
+Original
+si su macbook pro dispone de touch bar, también puede configurar touch id y apple pay.
+Translated
+yes his macbook has pro from touch Pub, as well can set up touch id Y Manzana pay.
+
+
+Swap the nearest adjective with the word after noun
+Original
+si su macbook pro dispone de touch bar, también puede configurar touch id y apple pay.
+Translated
+yes his macbook has pro from touch Pub, as well can set up touch id Y Manzana pay.
+
+
+Translation with Bigram
+Original
+si su macbook pro dispone de touch bar, también puede configurar touch id y apple pay.
+Translated
+Y id yes his macbook touch Manzana from, has pay can pro as well touch set up Pub.
+
+
+Translation with Trigram
+Original
+si su macbook pro dispone de touch bar, también puede configurar touch id y apple pay.
+Translated
+. id as well, has macbook yes set up from touch his pay Pub Manzana can pro touch Y
+
+
+Translation with Bigram and POS Tagging
+Original
+si su macbook pro dispone de touch bar, también puede configurar touch id y apple pay.
+Translated
+touch macbook yes set up pro pay, Manzana id from his can as well Y has touch Pub.
+
+
+Translation with POS arrangment
+Original
+si su macbook pro dispone de touch bar, también puede configurar touch id y apple pay.
+Translated
+macbook yes from touch his, as well can set up touch id has pro pay. Pub Y Manzana
+
+
+Normal Translation
+Original
+puede realizar estos pasos de manera fácil y rápida con asistente de configuración, pero, si prefiere hacerlo más adelante, a continuación se indica cómo.
+Translated
+can perform these Steps from way easy Y fast with assistant from configuration, but, yes prefers do what plus ahead, to continuation HE indicates how.
+
+
+Swap the nearest verb with the word after noun
+Original
+puede realizar estos pasos de manera fácil y rápida con asistente de configuración, pero, si prefiere hacerlo más adelante, a continuación se indica cómo.
+Translated
+can perform these Steps from way easy Y fast with assistant from configuration, but, yes do what prefers plus ahead, to continuation indicates HE how.
+
+
+Swap the nearest adjective with the word after noun
+Original
+puede realizar estos pasos de manera fácil y rápida con asistente de configuración, pero, si prefiere hacerlo más adelante, a continuación se indica cómo.
+Translated
+can perform these Steps from easy way Y fast with assistant from configuration, but, yes do what prefers plus ahead, to continuation indicates HE how.
+
+
+Translation with Bigram
+Original
+puede realizar estos pasos de manera fácil y rápida con asistente de configuración, pero, si prefiere hacerlo más adelante, a continuación se indica cómo.
+Translated
+prefers but continuation fast do what assistant, Y can how, from indicates configuration plus to these easy way with ahead from Steps yes perform HE,.
+
+
+Translation with Trigram
+Original
+puede realizar estos pasos de manera fácil y rápida con asistente de configuración, pero, si prefiere hacerlo más adelante, a continuación se indica cómo.
+Translated
+fast ahead perform,. assistant from easy Y configuration indicates from these with can to way prefers, yes but HE how Steps, do what continuation plus
+
+
+Translation with Bigram and POS Tagging
+Original
+puede realizar estos pasos de manera fácil y rápida con asistente de configuración, pero, si prefiere hacerlo más adelante, a continuación se indica cómo.
+Translated
+, Steps can perform with fast, continuation ahead but indicates easy Y yes plus, these configuration assistant way how HE prefers do what from to from.
+
+
+Translation with POS arrangment
+Original
+puede realizar estos pasos de manera fácil y rápida con asistente de configuración, pero, si prefiere hacerlo más adelante, a continuación se indica cómo.
+Translated
+these from perform way easy fast with assistant from configuration, but, can do what Steps plus ahead, prefers continuation indicates Y yes. to HE how
+
+
+Normal Translation
+Original
+conéctese a la red wifi.
+Translated
+connect to the net Wifi.
+
+
+Swap the nearest verb with the word after noun
+Original
+conéctese a la red wifi.
+Translated
+connect to the net Wifi.
+
+
+Swap the nearest adjective with the word after noun
+Original
+conéctese a la red wifi.
+Translated
+connect to the net Wifi.
+
+
+Translation with Bigram
+Original
+conéctese a la red wifi.
+Translated
+to the connect Wifi net.
+
+
+Translation with Trigram
+Original
+conéctese a la red wifi.
+Translated
+the connect net Wifi to.
+
+
+Translation with Bigram and POS Tagging
+Original
+conéctese a la red wifi.
+Translated
+net connect to the Wifi.
+
+
+Translation with POS arrangment
+Original
+conéctese a la red wifi.
+Translated
+connect the. to net Wifi
+
+
+Normal Translation
+Original
+haga clic en el icono de estado de wifi  en la barra de menús y, a continuación, seleccione una red wifi e introduzca la contraseña, si está protegida.
+Translated
+make click in he icon from state from Wifi in the bar from menus Y, to continuation, select a net Wifi and enter the password, yes this protected.
+
+
+Swap the nearest verb with the word after noun
+Original
+haga clic en el icono de estado de wifi  en la barra de menús y, a continuación, seleccione una red wifi e introduzca la contraseña, si está protegida.
+Translated
+make click in he icon from state from Wifi in the bar from menus Y, to continuation, select a net Wifi and enter the password, yes this protected.
+
+
+Swap the nearest adjective with the word after noun
+Original
+haga clic en el icono de estado de wifi  en la barra de menús y, a continuación, seleccione una red wifi e introduzca la contraseña, si está protegida.
+Translated
+make click in he icon from state from Wifi in the bar from menus Y, to continuation, select a net Wifi and enter the password, yes this protected.
+
+
+Translation with Bigram
+Original
+haga clic en el icono de estado de wifi  en la barra de menús y, a continuación, seleccione una red wifi e introduzca la contraseña, si está protegida.
+Translated
+continuation menus select click yes state, net from this icon, the enter Wifi to protected, a in Wifi he password and make from the Y from in bar.
+
+
+Translation with Trigram
+Original
+haga clic en el icono de estado de wifi  en la barra de menús y, a continuación, seleccione una red wifi e introduzca la contraseña, si está protegida.
+Translated
+from net from password, make state, bar yes Y icon Wifi Wifi protected and the click in this from he the select a to. continuation enter, menus in
+
+
+Translation with Bigram and POS Tagging
+Original
+haga clic en el icono de estado de wifi  en la barra de menús y, a continuación, seleccione una red wifi e introduzca la contraseña, si está protegida.
+Translated
+state protected the select in yes, menus in continuation Wifi, from enter he click from bar, make the icon and from to this password Wifi a net Y.
+
+
+Translation with POS arrangment
+Original
+haga clic en el icono de estado de wifi  en la barra de menús y, a continuación, seleccione una red wifi e introduzca la contraseña, si está protegida.
+Translated
+click in from state from make in the bar from menus icon, he continuation, select a net Wifi and enter the password, Y this to. Wifi yes protected
+
+
+Normal Translation
+Original
+active o desactive la red wifi.
+Translated
+activate or deactivate the net Wifi.
+
+
+Swap the nearest verb with the word after noun
+Original
+active o desactive la red wifi.
+Translated
+activate or deactivate the net Wifi.
+
+
+Swap the nearest adjective with the word after noun
+Original
+active o desactive la red wifi.
+Translated
+activate or deactivate the net Wifi.
+
+
+Translation with Bigram
+Original
+active o desactive la red wifi.
+Translated
+activate net Wifi deactivate the or.
+
+
+Translation with Trigram
+Original
+active o desactive la red wifi.
+Translated
+or. deactivate net the Wifi activate
+
+
+Translation with Bigram and POS Tagging
+Original
+active o desactive la red wifi.
+Translated
+deactivate net the Wifi activate or.
+
+
+Translation with POS arrangment
+Original
+active o desactive la red wifi.
+Translated
+activate the deactivate. or net Wifi
+
+
+Normal Translation
+Original
+haga clic en el icono de estado de wifi  en la barra de menús y, a continuación, seleccione activar wifi o desactivar wifi.
+Translated
+make click in he icon from state from Wifi in the bar from menus Y, to continuation, select Activate Wifi or deactivate Wifi.
+
+
+Swap the nearest verb with the word after noun
+Original
+haga clic en el icono de estado de wifi  en la barra de menús y, a continuación, seleccione activar wifi o desactivar wifi.
+Translated
+make click in he icon from state from Wifi in the bar from menus Y, to continuation, select Activate Wifi or deactivate Wifi.
+
+
+Swap the nearest adjective with the word after noun
+Original
+haga clic en el icono de estado de wifi  en la barra de menús y, a continuación, seleccione activar wifi o desactivar wifi.
+Translated
+make click in he icon from state from Wifi in the bar from menus Y, to continuation, select Activate Wifi or deactivate Wifi.
+
+
+Translation with Bigram
+Original
+haga clic en el icono de estado de wifi  en la barra de menús y, a continuación, seleccione activar wifi o desactivar wifi.
+Translated
+click deactivate. icon from select Wifi make state he Wifi the in Activate from in, from menus to or Y continuation bar, Wifi
+
+
+Translation with Trigram
+Original
+haga clic en el icono de estado de wifi  en la barra de menús y, a continuación, seleccione activar wifi o desactivar wifi.
+Translated
+Activate in Wifi select, he Wifi to continuation Y icon from, Wifi bar state the deactivate from from. menus in click make or
+
+
+Translation with Bigram and POS Tagging
+Original
+haga clic en el icono de estado de wifi  en la barra de menús y, a continuación, seleccione activar wifi o desactivar wifi.
+Translated
+state Wifi he the or bar, continuation Y deactivate make from select click in Wifi menus from, from Activate icon Wifi to in.
+
+
+Translation with POS arrangment
+Original
+haga clic en el icono de estado de wifi  en la barra de menús y, a continuación, seleccione activar wifi o desactivar wifi.
+Translated
+click in from state from make in the bar from menus icon, he continuation, select Wifi Y or deactivate to. Activate Wifi Wifi
+
+
+Normal Translation
+Original
+active o desactive bluetooth.
+Translated
+activate or deactivate bluetooth.
+
+
+Swap the nearest verb with the word after noun
+Original
+active o desactive bluetooth.
+Translated
+activate or deactivate bluetooth.
+
+
+Swap the nearest adjective with the word after noun
+Original
+active o desactive bluetooth.
+Translated
+activate or deactivate bluetooth.
+
+
+Translation with Bigram
+Original
+active o desactive bluetooth.
+Translated
+or bluetooth deactivate activate.
+
+
+Translation with Trigram
+Original
+active o desactive bluetooth.
+Translated
+or activate deactivate. bluetooth
+
+
+Translation with Bigram and POS Tagging
+Original
+active o desactive bluetooth.
+Translated
+activate or bluetooth deactivate.
+
+
+Translation with POS arrangment
+Original
+active o desactive bluetooth.
+Translated
+activate bluetooth deactivate. or
+
+
+Normal Translation
+Original
+haga clic en el icono de bluetooth  en la barra de menús y seleccione activar bluetooth o desactivar bluetooth.
+Translated
+make click in he icon from bluetooth in the bar from menus Y select Activate bluetooth or deactivate bluetooth.
+
+
+Swap the nearest verb with the word after noun
+Original
+haga clic en el icono de bluetooth  en la barra de menús y seleccione activar bluetooth o desactivar bluetooth.
+Translated
+make click in he icon from bluetooth in the bar from menus Y select Activate bluetooth or deactivate bluetooth.
+
+
+Swap the nearest adjective with the word after noun
+Original
+haga clic en el icono de bluetooth  en la barra de menús y seleccione activar bluetooth o desactivar bluetooth.
+Translated
+make click in he icon from bluetooth in the bar from menus Y select Activate bluetooth or deactivate bluetooth.
+
+
+Translation with Bigram
+Original
+haga clic en el icono de bluetooth  en la barra de menús y seleccione activar bluetooth o desactivar bluetooth.
+Translated
+click or bluetooth Y from Activate in bluetooth icon he bluetooth from in the menus select make bar deactivate.
+
+
+Translation with Trigram
+Original
+haga clic en el icono de bluetooth  en la barra de menús y seleccione activar bluetooth o desactivar bluetooth.
+Translated
+bar. deactivate make bluetooth or menus the bluetooth Y he from in in Activate bluetooth select icon from click
+
+
+Translation with Bigram and POS Tagging
+Original
+haga clic en el icono de bluetooth  en la barra de menús y seleccione activar bluetooth o desactivar bluetooth.
+Translated
+icon deactivate in make bluetooth menus click select Y in the or Activate from from bluetooth bluetooth he bar.
+
+
+Translation with POS arrangment
+Original
+haga clic en el icono de bluetooth  en la barra de menús y seleccione activar bluetooth o desactivar bluetooth.
+Translated
+click in from bluetooth in the bar from menus make select he bluetooth or deactivate bluetooth. icon Y Activate
+
+
+Normal Translation
+Original
+consejo: si no ve el icono de estado de conexión a la red wifi  o el icono de bluetooth  en la barra de menús, puede añadirlos.
+Translated
+advice: yes do not go he icon from state from Connection to the net Wifi or he icon from bluetooth in the bar from menus, can add them.
+
+
+Swap the nearest verb with the word after noun
+Original
+consejo: si no ve el icono de estado de conexión a la red wifi  o el icono de bluetooth  en la barra de menús, puede añadirlos.
+Translated
+advice: yes go do not he icon from state from Connection to the net Wifi or he icon from bluetooth in the bar from menus, can add them.
+
+
+Swap the nearest adjective with the word after noun
+Original
+consejo: si no ve el icono de estado de conexión a la red wifi  o el icono de bluetooth  en la barra de menús, puede añadirlos.
+Translated
+advice: yes go do not he icon from state from Connection to the net Wifi or he icon from bluetooth in the bar from menus, can add them.
+
+
+Translation with Bigram
+Original
+consejo: si no ve el icono de estado de conexión a la red wifi  o el icono de bluetooth  en la barra de menús, puede añadirlos.
+Translated
+the he from yes bluetooth net add them he icon do not: from Wifi go or in bar, state from icon to the menus from advice can Connection.
+
+
+Translation with Trigram
+Original
+consejo: si no ve el icono de estado de conexión a la red wifi  o el icono de bluetooth  en la barra de menús, puede añadirlos.
+Translated
+. the from he from add them menus net or yes can Wifi do not bluetooth: to state, icon from the go Connection bar in he icon from advice
+
+
+Translation with Bigram and POS Tagging
+Original
+consejo: si no ve el icono de estado de conexión a la red wifi  o el icono de bluetooth  en la barra de menús, puede añadirlos.
+Translated
+advice he icon go Wifi do not to menus or from bar icon can Connection state the bluetooth he from from yes net, add them from the in:.
+
+
+Translation with POS arrangment
+Original
+consejo: si no ve el icono de estado de conexión a la red wifi  o el icono de bluetooth  en la barra de menús, puede añadirlos.
+Translated
+advice do not go yes from state from Connection he the net: or he icon from bluetooth in the bar from menus, can add them. to Wifi icon
+
+
+Normal Translation
+Original
+para wifi, seleccione el menú apple preferencias del sistema y, a continuación, haga clic en red.
+Translated
+for Wifi, select he menu Manzana preferences of the system Y, to continuation, make click in net.
+
+
+Swap the nearest verb with the word after noun
+Original
+para wifi, seleccione el menú apple preferencias del sistema y, a continuación, haga clic en red.
+Translated
+for Wifi, select he menu Manzana of the preferences system Y, to continuation, make click in net.
+
+
+Swap the nearest adjective with the word after noun
+Original
+para wifi, seleccione el menú apple preferencias del sistema y, a continuación, haga clic en red.
+Translated
+for Wifi, select he menu Manzana of the preferences system Y, to continuation, make click in net.
+
+
+Translation with Bigram
+Original
+para wifi, seleccione el menú apple preferencias del sistema y, a continuación, haga clic en red.
+Translated
+for, net Wifi of the he system Y menu, in select preferences, continuation make click to Manzana.
+
+
+Translation with Trigram
+Original
+para wifi, seleccione el menú apple preferencias del sistema y, a continuación, haga clic en red.
+Translated
+Manzana of the, in Y preferences system make continuation Wifi, for to select click net,. menu he
+
+
+Translation with Bigram and POS Tagging
+Original
+para wifi, seleccione el menú apple preferencias del sistema y, a continuación, haga clic en red.
+Translated
+system,, in click continuation he select menu make of the Wifi net Y for Manzana to preferences,.
+
+
+Translation with POS arrangment
+Original
+para wifi, seleccione el menú apple preferencias del sistema y, a continuación, haga clic en red.
+Translated
+for select, he of the preferences system Wifi, menu continuation, make click in net. Manzana Y to
+
+
+Normal Translation
+Original
+haga clic en wifi en la lista de la izquierda y después seleccione mostrar estado de wifi en barra de menús.
+Translated
+make click in Wifi in the list from the left Y after select to show state from Wifi in bar from menus.
+
+
+Swap the nearest verb with the word after noun
+Original
+haga clic en wifi en la lista de la izquierda y después seleccione mostrar estado de wifi en barra de menús.
+Translated
+make click in Wifi in the list from the left Y after select to show state from Wifi in bar from menus.
+
+
+Swap the nearest adjective with the word after noun
+Original
+haga clic en wifi en la lista de la izquierda y después seleccione mostrar estado de wifi en barra de menús.
+Translated
+make click in Wifi in the list from the left Y after select to show state from Wifi in bar from menus.
+
+
+Translation with Bigram
+Original
+haga clic en wifi en la lista de la izquierda y después seleccione mostrar estado de wifi en barra de menús.
+Translated
+Wifi bar left the after click state from in Y to show in the Wifi list select from make from menus in.
+
+
+Translation with Trigram
+Original
+haga clic en wifi en la lista de la izquierda y después seleccione mostrar estado de wifi en barra de menús.
+Translated
+the in click the Y from menus state after in Wifi left select Wifi. from from make to show bar in list
+
+
+Translation with Bigram and POS Tagging
+Original
+haga clic en wifi en la lista de la izquierda y después seleccione mostrar estado de wifi en barra de menús.
+Translated
+in the from the Wifi bar menus click to show Wifi from from after state in make list select Y left in.
+
+
+Translation with POS arrangment
+Original
+haga clic en wifi en la lista de la izquierda y después seleccione mostrar estado de wifi en barra de menús.
+Translated
+click in in the list from the left after make to show state from select in bar from menus. Wifi Y Wifi
+
+

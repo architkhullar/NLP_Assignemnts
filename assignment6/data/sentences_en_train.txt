@@ -1,0 +1,10 @@
+The first time your MacBook Pro starts up, Setup Assistant walks you through the simple steps needed to start using your new Mac. 
+If you want to transfer your data from another computer, see Migrate your data for details.
+Mac screen with Setup Assistant showing the Welcome screen.
+Activate Siri during setup, if you want. 
+If your MacBook Pro has the Touch Bar, you can also set up Touch ID and Apple Pay.
+You can do these steps quickly and easily with Setup Assistant—but if you want to do them later, here’s how.
+Connect to WiFi. 
+Click the WiFi status icon in the menu bar, then choose a WiFi network and enter the password, if necessary.
+Turn WiFi on or off. 
+Click the WiFi status icon  in the menu bar, then choose Turn WiFi On or Turn WiFi Off.

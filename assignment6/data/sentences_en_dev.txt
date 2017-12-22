@@ -1,0 +1,5 @@
+Turn Bluetooth on or off. 
+Click the Bluetooth icon in the menu bar, then choose Turn Bluetooth On or Turn Bluetooth Off.
+Tip: If you don’t see the WiFi status icon  or Bluetooth icon  in the menu bar, you can add them. 
+For WiFi, choose Apple menu System Preferences, then click Network.
+Click WiFi in the list on the left, then select Show WiFi status in menu bar.

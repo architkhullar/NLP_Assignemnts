@@ -1,0 +1,10 @@
+La primera vez que encienda el MacBook Pro, el Asistente de Configuración le guiará a través de unos sencillos pasos necesarios para empezar a utilizar su nuevo Mac.
+Si desea transferir los datos que tiene en otro ordenador, consulte Migrar datos para obtener información detallada.
+Asegúrese de conectarse a una red wifi, activar la tecnología inalámbrica Bluetooth, hacerse con un ID de Apple e iniciar sesión en iCloud.
+Active Siri durante el proceso de configuración, si lo desea. 
+Si su MacBook Pro dispone de Touch Bar, también puede configurar Touch ID y Apple Pay.
+Puede realizar estos pasos de manera fácil y rápida con Asistente de Configuración, pero, si prefiere hacerlo más adelante, a continuación se indica cómo.
+Conéctese a la red WiFi. 
+Haga clic en el icono de estado de wifi  en la barra de menús y, a continuación, seleccione una red wifi e introduzca la contraseña, si está protegida.
+Active o desactive la red wifi.
+Haga clic en el icono de estado de wifi  en la barra de menús y, a continuación, seleccione Activar wifi o Desactivar wifi.
